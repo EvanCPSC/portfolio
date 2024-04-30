@@ -1,10 +1,8 @@
 
-<body>
+
     <div class="topnav"></div>
     <div class="leftnav"></div>
     <div class="socials"></div>
-    <slot />
-</body>
 
 
 <style>
