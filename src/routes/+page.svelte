@@ -10,8 +10,6 @@
 
 <style>
     div {
-        background-color: #d3d3d3;
-        color: black;
         align-self: center;
         top: 40%;
         left: 50%;
