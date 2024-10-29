@@ -14,13 +14,17 @@
 <style>
     :global(body) { margin: 0; padding: 0; }
     :root {
-        --bg: #0f1f2d;
-        --lired: #E85D75;
-        --ligreen: #62C370;
-        --liblue: #3E92CC;
-        --dared: #783744;
-        --dagreen: #356A42;
-        --dablue: #235170;
+        --bg: #1c2950;
+        --liligreen: #C7F9CC;
+        --lilidegreen: #C9E4CA;
+        --ligreen: #80ED99;
+        --lidegreen: #87BBA2;
+        --liblue: #38A3A5;
+        --lideblue: #55828B;
+        --dagreen: #57CC99;
+        --dadegreen: #3B6064;
+        --dablue: #22577A;
+        --dadeblue: #364958;
     }
     
     main {
