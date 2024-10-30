@@ -4,7 +4,7 @@
 <nav class="leftnav">
     <a href="/">Home</a>
     <a href="/projects">Projects</a>
-    <a href="/about">About</a>
+    <a href="/about">Experience</a>
     <a href="/contact">Contact</a>
 </nav>
 
