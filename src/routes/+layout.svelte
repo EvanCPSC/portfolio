@@ -14,17 +14,9 @@
 <style>
     :global(body) { margin: 0; padding: 0; }
     :root {
-        --bg: #1c2950;
-        --liligreen: #C7F9CC;
-        --lilidegreen: #C9E4CA;
-        --ligreen: #80ED99;
-        --lidegreen: #87BBA2;
-        --liblue: #38A3A5;
-        --lideblue: #55828B;
-        --dagreen: #57CC99;
-        --dadegreen: #3B6064;
-        --dablue: #22577A;
-        --dadeblue: #364958;
+        --bg: #00001a;
+        --whblue: #ccccff;
+        --liblue: #b3b3ff;
     }
     
     main {
@@ -32,6 +24,7 @@
         min-height: 100vh;
         background-color: var(--bg);
         size: 100%;
+        overflow: auto;
     }
     
 </style>
